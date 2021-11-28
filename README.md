@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahi6086&show_icons=true&locale=en" alt="mahi6086" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi6086&" alt="mahi6086" /></p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahi6086)  
+
+![Profile views](https://gpvc.arturio.dev/Mahi6086)  
