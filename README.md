@@ -23,6 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi6086)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahi6086&show_icons=true)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahi6086&" alt="mahi6086" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahi6086)  
 
