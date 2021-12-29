@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="" />
 <h1 align="center">Hi 👋, I'm Mahi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
